@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file alias="simple.frag">simple.frag</file>
+        <file alias="simple.vert">simple.vert</file>
+    </qresource>
+    <qresource prefix="/scene">
+        <file alias="sample">scene.json</file>
+    </qresource>
+</RCC>
